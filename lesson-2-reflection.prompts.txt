@@ -24,5 +24,7 @@ Diagram gives a visual aid of the different branches and its reach.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Creates a new branch with all the new changes from the previous branches.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
