@@ -19,6 +19,8 @@ When working with someone, when trying a new feature without breaking the old on
 
 How do the diagrams help you visualize the branch structure?
 
+Diagram gives a visual aid of the different branches and its reach.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
