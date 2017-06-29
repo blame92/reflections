@@ -15,6 +15,8 @@ Staging area gives you the possibility to add one or several files to one commit
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When working with someone, when trying a new feature without breaking the old one, when creating a new version of the same project.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
