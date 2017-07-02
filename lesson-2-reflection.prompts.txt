@@ -28,3 +28,6 @@ Creates a new branch with all the new changes from the previous branches.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+automatic merging is useful when you can be certain that both versions do not change or modify the same code so that you end up with a buggy code. Manual gives the ability to solve this issues yourself but is more time-consuming
+
