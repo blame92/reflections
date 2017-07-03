@@ -16,7 +16,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    You can fetch that information without merging in order to work offline and decide when to merge the remote and your local version. Pulling gives you the ability to get the state of the remote version that several people may have been working on to your local repository.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
